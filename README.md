@@ -11,7 +11,7 @@ good objects and negative point when clicking on bomb or any other harmful objec
 
 
 ## Here is the glimpse of the game:
-<div allign= "center" ></div>https://github.com/MrBhujel/Click-and-Smash/assets/135311833/d34886ce-b250-44f5-8741-dd0811e8c073 </div>
+<div allign= "center" >https://github.com/MrBhujel/Click-and-Smash/assets/135311833/d34886ce-b250-44f5-8741-dd0811e8c073</div>
 
 
 

@@ -5,7 +5,7 @@ There are three different types of difficulties, ie. Easy, Medium and Hard. Acco
 good objects and negative point when clicking on bomb or any other harmful objects. The game will be over only if the non negative objects are missed to destroy.
 
 <h1><p align="center">
-<b><a href="https://play.unity.com/mg/other/game-ggxy" target = "_blank">Play Game Here</a></b>
+<b><a href="https://play.unity.com/en/games/a573de22-b8f0-4c05-a615-1a69b8c7a6ae/click-and-smash" target = "_blank">Play Game Here</a></b>
 </p></h1>
 
 
@@ -31,12 +31,12 @@ good objects and negative point when clicking on bomb or any other harmful objec
 ![After GameOver](https://github.com/MrBhujel/Click-and-Smash/assets/135311833/cd730c69-1c7b-4387-bd6a-48fa44e74fa9)
 
 
-## Play the game from <b><a href="https://play.unity.com/mg/other/game-ggxy" target = "_blank">Here</a></b>
+## Play the game from <b><a href="https://play.unity.com/en/games/a573de22-b8f0-4c05-a615-1a69b8c7a6ae/click-and-smash" target = "_blank">Here</a></b>
 
 
 
 
 
 <h1><p align="center">
-<b><a href="https://play.unity.com/mg/other/game-ggxy" target = "_blank">Play Game Here</a></b>
+<b><a href="https://play.unity.com/en/games/a573de22-b8f0-4c05-a615-1a69b8c7a6ae/click-and-smash" target = "_blank">Play Game Here</a></b>
 </p></h1>

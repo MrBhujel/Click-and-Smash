@@ -1,4 +1,4 @@
-# Click and Smash
+# Click and Smash (Compatible to play in PC or Laptop, not recommended for mobile devices)
 
 This game is made with the learning purpose of unity and it's basics. It is a  **click and smashing**  type of game where objects are flowen and we need to click on the objects to destroy them and obtain points.
 There are three different types of difficulties, ie. Easy, Medium and Hard. According to the difficulties level, the objects spawn on different speed. In this game, positive score is obtained when clicking on 
